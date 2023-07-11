@@ -34,3 +34,31 @@
 .header-img img {
     width: 50%;
 }
+
+
+
+.hot-deal {
+    margin-top: 50px;
+    display: flex;
+    padding-top: 50px;
+    background: #E554731A;
+}
+
+
+
+
+footer {
+    padding: 50px 0 20px 0;
+    background: rgba(0, 0, 0, 0.746);
+
+    text-align: center;
+}
+
+footer h1 {
+    color: #E55473
+}
+
+footer p,
+footer span {
+    color: gray
+}
